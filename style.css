@@ -3,9 +3,10 @@
    "how to change link color." */
 
 body {
-  background-color:#ffef00;
+  background: rgb(255,255,157);
+  background: radial-gradient(circle, rgba(255,255,157,1) 0%, rgba(255,255,99,1) 35%, rgba(255,255,37,1) 100%);
   color: black;
-  font-family: Verdana;
+  font-family: Helvetica;
 }
 
 h1 {
